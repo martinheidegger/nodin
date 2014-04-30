@@ -1,4 +1,4 @@
 nodin
 =====
 
-Seamless deploy, simple node.js deployment system.
+Seamless, simple node.js deployment system for the cloud.

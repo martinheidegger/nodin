@@ -1,0 +1,22 @@
+{
+  "name": "nodin",
+  "version": "0.0.0",
+  "description": "Seamless, simple node.js deployment system for the cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinheidegger/nodin.git"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinheidegger/nodin/issues"
+  },
+  "homepage": "https://github.com/martinheidegger/nodin"
+}
